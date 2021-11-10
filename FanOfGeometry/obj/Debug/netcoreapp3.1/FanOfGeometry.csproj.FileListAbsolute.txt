@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\bin\Debug\netcoreapp3.1\FanOfGeometry.exe
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\bin\Debug\netcoreapp3.1\FanOfGeometry.deps.json
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\bin\Debug\netcoreapp3.1\FanOfGeometry.runtimeconfig.json
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\bin\Debug\netcoreapp3.1\FanOfGeometry.runtimeconfig.dev.json
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\bin\Debug\netcoreapp3.1\FanOfGeometry.dll
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\bin\Debug\netcoreapp3.1\FanOfGeometry.pdb
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.AssemblyInfo.cs
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.dll
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.pdb
+C:\Users\hp\source\repos\FanOfGeometry\FanOfGeometry\obj\Debug\netcoreapp3.1\FanOfGeometry.genruntimeconfig.cache
